@@ -9,7 +9,7 @@ print(myfloat)
 floatNumber = float(7)
 print(floatNumber)
 
-# float funk
+#String
 mystring = "i love there"
 print(mystring)
 
