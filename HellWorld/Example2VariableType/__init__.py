@@ -62,7 +62,7 @@ print(c)
 #a=1,b=5
 
 #tanimlar 
-#int float complex
+#int float complex str
 
 number = int(5)
 print(number)
@@ -70,6 +70,19 @@ number = float(5)
 print(number)
 number = complex(5)
 print(number)
+
+number = str(10.5)
+print(number+"deneme")
+
+#İzin vermeyecektir
+#number = 10.5
+#print(number+"deneme")
+
+number = 10
+print(number + int("10"))
+
+#\n
+print("Merhaba \n Dünya")
 
 
 
