@@ -41,6 +41,10 @@ veri = 110
 if(veri > 100):
     if(veri < 120):
         print("values larger than 100 and less than 120")  
+        
+        
+veri = 5
+if(veri == 5):print("hello")        
 
 
 
