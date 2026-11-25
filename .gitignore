@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Eclipse PyDev / IDE
+.project
+.pydevproject
+.settings/
+.idea/
+.vscode/
+
+# Isletim sistemi
+.DS_Store
+Thumbs.db
